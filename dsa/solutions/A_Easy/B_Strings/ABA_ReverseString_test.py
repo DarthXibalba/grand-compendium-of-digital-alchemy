@@ -1,7 +1,7 @@
 import pytest
 
-from python.A_Easy.B_Strings.ABA_ReverseString import reverse_string
-from python.pyutil.compare import assert_same_sequence
+from solutions.A_Easy.B_Strings.ABA_ReverseString import reverse_string
+from solutions.pyutil.compare import assert_same_sequence
 
 CASES = [
     (["h","e","l","l","o"], ["o","l","l","e","h"]),

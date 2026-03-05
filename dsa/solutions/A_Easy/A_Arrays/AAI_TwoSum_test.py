@@ -1,8 +1,8 @@
 import pytest
 
 
-from python.A_Easy.A_Arrays.AAI_TwoSum import two_sum
-from python.pyutil.compare import assert_same_sequence
+from solutions.A_Easy.A_Arrays.AAI_TwoSum import two_sum
+from solutions.pyutil.compare import assert_same_sequence
 
 
 CASES = [

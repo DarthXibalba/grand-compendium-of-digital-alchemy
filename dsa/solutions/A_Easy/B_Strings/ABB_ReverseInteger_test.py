@@ -1,6 +1,6 @@
 import pytest
 
-from python.A_Easy.B_Strings.ABB_ReverseInteger import reverse_integer
+from solutions.A_Easy.B_Strings.ABB_ReverseInteger import reverse_integer
 
 CASES = [
     (123, 321),

@@ -1,4 +1,4 @@
-from python.A_Easy.C_LinkedLists.AC_DataStructures import *
+from solutions.A_Easy.C_LinkedLists.AC_DataStructures import *
 
 def has_cycle(head: ListNode | None) -> bool:
     if head == None or head.next == None:

@@ -1,7 +1,7 @@
 import pytest
 
-from python.A_Easy.C_LinkedLists.ACB_RemoveNthNodeFromEndOfList import *
-from python.A_Easy.C_LinkedLists.AC_DataStructures import *
+from solutions.A_Easy.C_LinkedLists.ACB_RemoveNthNodeFromEndOfList import *
+from solutions.A_Easy.C_LinkedLists.AC_DataStructures import *
 
 
 @pytest.mark.parametrize(

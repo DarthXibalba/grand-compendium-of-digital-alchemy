@@ -1,7 +1,7 @@
 import pytest
 
-from python.A_Easy.C_LinkedLists.AC_DataStructures import *
-from python.A_Easy.C_LinkedLists.ACF_LinkedListCycle import *
+from solutions.A_Easy.C_LinkedLists.AC_DataStructures import *
+from solutions.A_Easy.C_LinkedLists.ACF_LinkedListCycle import *
 
 @pytest.mark.parametrize(
     "input_list, cycle_index, expected",

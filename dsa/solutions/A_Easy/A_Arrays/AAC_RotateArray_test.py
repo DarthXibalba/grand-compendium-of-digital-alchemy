@@ -1,7 +1,7 @@
 import pytest
 
-from python.A_Easy.A_Arrays.AAC_RotateArray import rotate_array
-from python.pyutil.compare import assert_same_sequence
+from solutions.A_Easy.A_Arrays.AAC_RotateArray import rotate_array
+from solutions.pyutil.compare import assert_same_sequence
 
 CASES = [
     ([1,2,3,4,5,6,7], 3, [5,6,7,1,2,3,4]),

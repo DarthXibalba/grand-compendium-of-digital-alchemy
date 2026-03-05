@@ -1,7 +1,7 @@
 import pytest
 
-from python.A_Easy.C_LinkedLists.AC_DataStructures import *
-from python.A_Easy.C_LinkedLists.ACA_DeleteNodeInALinkedList import *
+from solutions.A_Easy.C_LinkedLists.AC_DataStructures import *
+from solutions.A_Easy.C_LinkedLists.ACA_DeleteNodeInALinkedList import *
 
 CASES = [
     ([1, 2, 3, 4, 5], 1, [1, 3, 4, 5]),

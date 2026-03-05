@@ -1,6 +1,6 @@
 import pytest
 
-from python.A_Easy.A_Arrays.AAD_ContainsDuplicate import *
+from solutions.A_Easy.A_Arrays.AAD_ContainsDuplicate import *
 
 CASES = [
     ([1, 2, 3, 1], True),

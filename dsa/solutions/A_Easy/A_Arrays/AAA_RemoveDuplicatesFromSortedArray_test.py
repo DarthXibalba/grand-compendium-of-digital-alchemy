@@ -1,7 +1,7 @@
 import pytest
 
-from python.A_Easy.A_Arrays.AAA_RemoveDuplicatesFromSortedArray import remove_duplicates_from_sorted_array
-from python.pyutil.compare import assert_same_sequence
+from solutions.A_Easy.A_Arrays.AAA_RemoveDuplicatesFromSortedArray import remove_duplicates_from_sorted_array
+from solutions.pyutil.compare import assert_same_sequence
 
 CASES = [
     ([1, 1, 2], 2, [1, 2]),
